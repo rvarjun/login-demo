@@ -1,3 +1,4 @@
 # login-demo
-This is my first git repository
-author - Arjun
+This is my first git repository.
+<br>
+author - Arjun 
